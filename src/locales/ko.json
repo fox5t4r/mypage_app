@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "about": "소개",
+    "skills": "기술",
+    "experience": "경력",
+    "projects": "프로젝트",
+    "contact": "연락처"
+  },
+  "hero": {
+    "greeting": "안녕하세요, 저는",
+    "name": "유원상",
+    "roles": ["보안 전문가", "취약점 분석가", "AI 보안 연구자"],
+    "description": "웹 해킹과 AI 보안을 연구하는 보안 전문가입니다. 취약점을 분석하고 더 안전한 시스템을 만들기 위해 끊임없이 탐구합니다.",
+    "cta_projects": "프로젝트 보기",
+    "cta_resume": "이력서 다운로드"
+  },
+  "about": {
+    "label": "ABOUT ME",
+    "title": "보안으로 더 안전한\n세상을 만듭니다",
+    "bio1": "순천향대학교 정보보호학과에 재학 중이며, SecurityFirst 웹 팀 리더로 활동하고 있습니다. 웹 취약점 분석과 CTF 문제 출제 경험을 보유하고 있습니다.",
+    "bio2": "웹 해킹(XSS, SQLi, CSP Bypass 등) 및 AI 보안 연구를 중심으로 활동하며, 해킹 대회 운영과 보안 프로젝트 리딩 경험을 통해 실전 역량을 키워왔습니다.",
+    "stats": {
+      "experience": { "value": 2, "label": "년 활동" },
+      "projects": { "value": 6, "label": "보안 프로젝트" },
+      "stacks": { "value": 5, "label": "CTF 출제" }
+    }
+  },
+  "skills": {
+    "label": "SKILLS",
+    "title": "기술 스택",
+    "tabs": {
+      "frontend": "Web Hacking",
+      "backend": "Development",
+      "tools": "Tools & AI"
+    }
+  },
+  "experience": {
+    "label": "EXPERIENCE",
+    "title": "활동 이력",
+    "present": "현재"
+  },
+  "projects": {
+    "label": "PROJECTS",
+    "title": "주요 프로젝트",
+    "filters": {
+      "all": "전체",
+      "web": "Web",
+      "mobile": "Research",
+      "opensource": "CTF"
+    },
+    "modal": {
+      "role": "담당 역할",
+      "stack": "사용 기술",
+      "github": "GitHub",
+      "demo": "라이브 데모",
+      "close": "닫기"
+    }
+  },
+  "contact": {
+    "label": "CONTACT",
+    "title": "함께 연구하고 싶으신가요?",
+    "description": "보안 프로젝트 협업, 취약점 분석, CTF 관련 문의를 환영합니다. 언제든지 연락주세요.",
+    "form": {
+      "name": "이름",
+      "email": "이메일",
+      "subject": "제목",
+      "message": "메시지",
+      "name_placeholder": "홍길동",
+      "email_placeholder": "example@company.com",
+      "subject_placeholder": "보안 프로젝트 협업 문의",
+      "message_placeholder": "안녕하세요, ...",
+      "submit": "메시지 보내기",
+      "sending": "전송 중...",
+      "success": "메시지가 전송되었습니다. 빠른 시일 내에 답변 드리겠습니다.",
+      "error": "전송에 실패했습니다. 직접 이메일로 연락해 주세요."
+    },
+    "links": {
+      "email": "이메일",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "kakao": "카카오톡"
+    }
+  },
+  "footer": {
+    "copy": "© 2025 유원상. All rights reserved."
+  }
+}

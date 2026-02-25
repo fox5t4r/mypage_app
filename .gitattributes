@@ -1,0 +1,3 @@
+# 모든 텍스트 파일 줄바꿈 통일 (Windows CRLF → LF)
+* text=auto eol=lf
+*.bat text eol=crlf

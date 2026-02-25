@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Wonsang Yoo",
+    "roles": ["Security Specialist", "Vulnerability Analyst", "AI Security Researcher"],
+    "description": "A security specialist researching web hacking and AI security. I analyze vulnerabilities and explore ways to build safer systems.",
+    "cta_projects": "View Projects",
+    "cta_resume": "Download Resume"
+  },
+  "about": {
+    "label": "ABOUT ME",
+    "title": "Building a safer world\nthrough security",
+    "bio1": "Studying Information Security at Soonchunhyang University and serving as Web Team Leader at SecurityFirst. Experienced in web vulnerability analysis and CTF challenge creation.",
+    "bio2": "Focused on web hacking (XSS, SQLi, CSP Bypass, etc.) and AI security research. Built practical skills through running hacking competitions and leading security projects.",
+    "stats": {
+      "experience": { "value": 2, "label": "Years Active" },
+      "projects": { "value": 6, "label": "Security Projects" },
+      "stacks": { "value": 5, "label": "CTF Challenges" }
+    }
+  },
+  "skills": {
+    "label": "SKILLS",
+    "title": "Tech Stack",
+    "tabs": {
+      "frontend": "Web Hacking",
+      "backend": "Development",
+      "tools": "Tools & AI"
+    }
+  },
+  "experience": {
+    "label": "EXPERIENCE",
+    "title": "Activity History",
+    "present": "Present"
+  },
+  "projects": {
+    "label": "PROJECTS",
+    "title": "Featured Projects",
+    "filters": {
+      "all": "All",
+      "web": "Web",
+      "mobile": "Research",
+      "opensource": "CTF"
+    },
+    "modal": {
+      "role": "My Role",
+      "stack": "Tech Stack",
+      "github": "GitHub",
+      "demo": "Live Demo",
+      "close": "Close"
+    }
+  },
+  "contact": {
+    "label": "CONTACT",
+    "title": "Want to collaborate?",
+    "description": "Open to security project collaborations, vulnerability analysis, and CTF-related inquiries. Feel free to reach out anytime.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "name_placeholder": "John Doe",
+      "email_placeholder": "example@company.com",
+      "subject_placeholder": "Security Project Inquiry",
+      "message_placeholder": "Hello, ...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent! I'll get back to you soon.",
+      "error": "Failed to send. Please email me directly."
+    },
+    "links": {
+      "email": "Email",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "kakao": "KakaoTalk"
+    }
+  },
+  "footer": {
+    "copy": "© 2025 Wonsang Yoo. All rights reserved."
+  }
+}
