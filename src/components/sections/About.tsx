@@ -143,7 +143,7 @@ export default function About({ t }: AboutProps) {
                   유원상
                 </p>
                 <p className="text-sm" style={{ color: "var(--text-muted)" }}>
-                  Security Specialist
+                  Web Hacking Expert
                 </p>
               </div>
             </motion.div>
@@ -177,7 +177,7 @@ export default function About({ t }: AboutProps) {
                 CORE EXPERTISE
               </p>
               <div className="flex flex-wrap gap-2">
-                {["Web Hacking", "XSS / SQLi", "CSP Bypass", "Python", "Burp Suite", "CTF", "AI Security"].map(
+                {["Web Hacking", "CVE Research", "Red Team", "Burp Suite", "Prompt Injection", "Bug Bounty", "CTF"].map(
                   (tag) => (
                     <span
                       key={tag}
